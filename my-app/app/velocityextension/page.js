@@ -81,7 +81,7 @@ const page = () => {
                 <form
                     className="w-full sm:max-w-[700px] bg-slate-50 dark:bg-[#152A32] text-black dark:text-white px-5 lg:px-15 py-10 rounded-xl shadow-[0px_-8px_0px_0px_rgba(0,0,0,1)] sm:shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] sm:border sm:border-black"
                     style={{ minHeight: '700px' }}
-                
+                >
                     <h1 className="text-3xl mb-6 text-center md:text-left dark:text-white">
                         Get Velocity Extension.
                     </h1>
